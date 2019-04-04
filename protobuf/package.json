@@ -1,0 +1,4 @@
+{
+	"name": "egret",
+	"typings": "src/ProtoBuf.d.ts"
+}
